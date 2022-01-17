@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-#Author: Christodoulos Tziampazis
+#Author: Tziampais
 #Name: fastscan 
 
 
